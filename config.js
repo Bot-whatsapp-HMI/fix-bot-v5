@@ -61,8 +61,8 @@ global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2
 global.pdana = '085727901873' //dana
 global.povo = '085727901873' //ovo
 global.pgopay = '085727901873' //gopay
-global.plinkaja = '085727901873' //link aja
-global.ppulsa = '085727901873' //telkomsel
+global.plinkaja = '_' //link aja
+global.ppulsa = '_' //telkomsel
 global.ppulsa2 = '085727901873' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
@@ -86,8 +86,8 @@ global.openaikey = "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"
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285727901873', 'MEGA BOT', true],
-  ['-', '6285742257119', true],
+  ['6285727901873', 'MAS AL', true],
+  ['6285742257119', 'VIAN', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
