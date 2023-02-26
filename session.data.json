@@ -2566,6 +2566,7 @@
             "seed": "dSE30dOXAk7Uh+Ayd7prdcxJ7LF/g1DcFdJuPUepK2Q="
           },
           "senderSigningKey": {
+            "public": "Be": {
             "public": "Bep1f0hmjqkE5cWQWD7NCKxonaxJEMiBINmSpUjaZ6tC"
           }
         },
@@ -2588,43 +2589,3 @@
             "seed": "vEgpr/xODyKh/uDy871v8rI1DHsOs1vNWfSc2DIG0t4="
           },
           "senderSigningKey": {
-            "public": "BdEv8W0aSjyR3AebxzhJ/lCGDcD9aB8ariEtRiDRYZhc"
-          }
-        }
-      ]
-    },
-    "senderKeyMemory": {
-      "120363040642063756@g.us": {
-        "628993208880@s.whatsapp.net": true,
-        "62895343790309@s.whatsapp.net": true,
-        "628895409232@s.whatsapp.net": true,
-        "628884170027@s.whatsapp.net": true,
-        "6288802999875@s.whatsapp.net": true,
-        "6288239045723@s.whatsapp.net": true,
-        "6288221536191@s.whatsapp.net": true,
-        "6288215400524@s.whatsapp.net": true,
-        "62882003867609@s.whatsapp.net": true,
-        "6287815396701@s.whatsapp.net": true,
-        "6287815396701:17@s.whatsapp.net": true,
-        "6285866232558@s.whatsapp.net": true,
-        "6285834182635@s.whatsapp.net": true,
-        "6285742257119@s.whatsapp.net": true,
-        "6285727901873@s.whatsapp.net": true,
-        "6285726014142@s.whatsapp.net": true,
-        "6285702294834@s.whatsapp.net": true,
-        "6283873914465@s.whatsapp.net": true,
-        "6283105151648@s.whatsapp.net": true,
-        "6283102308955@s.whatsapp.net": true,
-        "6281548163684@s.whatsapp.net": true,
-        "6281366159263@s.whatsapp.net": true,
-        "6281227107319@s.whatsapp.net": true,
-        "6281215352054@s.whatsapp.net": true
-      },
-      "120363043907313470@g.us": {
-        "6285727901873@s.whatsapp.net": true,
-        "6285726014142@s.whatsapp.net": true,
-        "6285742257119@s.whatsapp.net": true
-      }
-    }
-  }
-}
