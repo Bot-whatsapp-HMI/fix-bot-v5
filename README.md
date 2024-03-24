@@ -15,9 +15,9 @@ Script ini untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu 
 </p>
 <p align="center">
 <a href="https://github.com/WH-MODS-BOT"><img title="Author" src="https://img.shields.io/badge/AUTHOR-WH--MODS--BOT-green?style=for-the-badge&logo=github"></a>
-    
-# CARA RUN DI REPLIT
 
+# CARA RUN DI REPLIT
+```bash
 - LOGIN REPLIT DENGAN GITHUB KALIAN
 - CARI MY REPLS -> TEKAN CREATE
 - PILIH "TEMPLATE" NODE.JS DAN "TITLE" KALIAN ISI BEBAS
@@ -31,6 +31,17 @@ Script ini untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu 
 - NAH KALIAN PILIH YANG ffmpeg.bin (ENTER)
 - LALU KE CONSOLE -> TEKAN RUN -> TUNGGU PROSES DOWNLOAD MODULE -> SCAN QR
 - DONE
+```
+
+---------
+
+# CARA RUN DI GITHUB (CODESPACES)
+
+- TONTON LINK VIDEO DIBAWAH INI
+<a href="https://www.youtube.com/live/3t32UiA-_8Y?feature=share">
+    <img align="left" alt="SIEGRIN | YouTube" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Youtube.svg" />
+  </a> &nbsp;&nbsp;
+(kalau kurang jelas video replay nya, bisa tanya langsung digrub , link grup bisa check di desk video nya ..........)
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
