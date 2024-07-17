@@ -67,10 +67,10 @@ global.ppulsa2 = '085727901873' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285726014142'
-global.nomorown = '6285727901873'
-global.namebot = 'MEGA BOT'
-global.nameown = 'MAS AL'
+global.nomorbot = '441200480244'
+global.nomorown = '6281914698325'
+global.namebot = 'Zanx BOT'
+global.nameown = 'Zanx Rx'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = '' // nama github lu
@@ -86,8 +86,8 @@ global.openaikey = "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"
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285727901873', 'MAS AL', true],
-  ['6285742257119', 'VIAN', true],
+  ['6281914698325', 'Zanx Rx', true],
+  ['_', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
@@ -158,14 +158,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 MEGA BOT 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘MEGA BOT ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = "⫹⫺ MEGA BOT"
+global.wm = '                「 Zanx BOT 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Zanx BOT ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = "⫹⫺ Zanx BOT"
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By MAS AL`
+global.titlebot = `⫹⫺ WhatsApp Bot | By Zanx Rx`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = "MAS AL 乂 MEGA BOT"
+global.author = "Zanx Rx 乂 Zanx BOT"
 
 /*Fake*/
 global.fsizedoc = SizeDoc()
@@ -239,8 +239,8 @@ global.htjava = pickRandom(["⛶", "❏", "⫹⫺", "☰", "⎔", "✦", "⭔", 
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'MEGA BOT'
-global.stickauth = `By ©MAS AL`
+global.stickpack = 'Zanx BOT'
+global.stickauth = `By ©Zanx Rx`
 
 global.multiplier = 69 // The higher, The harder levelup
 
